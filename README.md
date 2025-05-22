@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
 <h1 align="center">Hi 👋, I'm Prabhu Naman</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="(https://www.google.com/search?sxsrf=AHTn8zqtZuAbVH8qDFTZ-wVfd2izo-VoEg:1747910982137&q=gif+of+coder&udm=2#imgrc=NkLkkfxGDCAjtM&imgdii=IicDqN998zwMzM)">
 
 
 ## About me:
